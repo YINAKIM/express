@@ -1,0 +1,23 @@
+{
+  "name": "node_express",
+  "version": "1.0.0",
+  "description": "test express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "yina",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YINAKIM/node_express.git"
+  },
+  "bugs": {
+    "url": "https://github.com/YINAKIM/express/issues"
+  },
+  "homepage": "https://github.com/YINAKIM/express#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
